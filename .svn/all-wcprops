@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/csc369-2015-01/g3zhouji/!svn/ver/21/a2
+END
+sim.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/csc369-2015-01/g3zhouji/!svn/ver/14/a2/sim.c
+END
+pagetable.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/csc369-2015-01/g3zhouji/!svn/ver/19/a2/pagetable.h
+END
+swap.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/csc369-2015-01/g3zhouji/!svn/ver/9/a2/swap.c
+END
+clock.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/csc369-2015-01/g3zhouji/!svn/ver/20/a2/clock.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/csc369-2015-01/g3zhouji/!svn/ver/9/a2/Makefile
+END
+sim.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/csc369-2015-01/g3zhouji/!svn/ver/9/a2/sim.h
+END
+lru.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/csc369-2015-01/g3zhouji/!svn/ver/19/a2/lru.c
+END
+opt.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/csc369-2015-01/g3zhouji/!svn/ver/19/a2/opt.c
+END
+fifo.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/csc369-2015-01/g3zhouji/!svn/ver/19/a2/fifo.c
+END
+README.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/csc369-2015-01/g3zhouji/!svn/ver/21/a2/README.pdf
+END
+pagetable.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/csc369-2015-01/g3zhouji/!svn/ver/18/a2/pagetable.c
+END
+rand.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/csc369-2015-01/g3zhouji/!svn/ver/9/a2/rand.c
+END
